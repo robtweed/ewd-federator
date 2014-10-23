@@ -1,0 +1,21 @@
+{ "name": "ewd-federator", 
+  "description": "Customisable REST-based Module for federation of EWD.js systems", 
+   "version": "0.1.0", 
+   "author": "Rob Tweed <rtweed@mgateway.com>", 
+   "repository": { 
+     "type": "git", 
+     "url": "git://github.com/robtweed/ewd-federator.git"
+   }, 
+   "os": [ "any" ],
+   "directories": { 
+     "lib" : "./lib/" 
+   }, 
+   "main": "./lib/ewdrest.js", 
+   "engines": { "node" : ">=0.2.2" }, 
+   "dependencies": {
+     "restify": "2.6.1",
+     "ewdliteclient": ">=0.2.0",
+     "globalsjs": ">=0.24.0"
+   },
+   "licenses": [ "Apache" ]
+}
