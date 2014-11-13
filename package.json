@@ -1,6 +1,6 @@
 { "name": "ewd-federator", 
   "description": "Customisable REST-based Module for federation of EWD.js systems", 
-   "version": "0.6.0", 
+   "version": "0.7.0", 
    "author": "Rob Tweed <rtweed@mgateway.com>", 
    "repository": { 
      "type": "git", 
