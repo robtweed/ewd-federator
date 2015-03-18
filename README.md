@@ -1,10 +1,5 @@
-# ewd-federator: Customisable REST-based Module for Federation of EWD.js systems
+# ewd-federator: Customisable REST-based Module for Federation of Web Service, REST and EWD.js systems
  
-This module provides a powerful, flexible and customisable REST interface to one or more EWD.js systems.
-
-It uses the same master process / queue / child-process architecture of EWD.js, and integrates
-Cache, GlobalsDB or GT.M to provide persistence for federation-related tables, mappings etc.
-
 Rob Tweed <rtweed@mgateway.com>  
 23 October 2014, M/Gateway Developments Ltd [http://www.mgateway.com](http://www.mgateway.com)  
 
@@ -20,12 +15,13 @@ Google Group for discussions, support, advice etc: [http://groups.google.co.uk/g
 	   
 ## Using ewd-federator
 
-  Documentation to follow...
+  Full details and documentation can be found at
+  [http://gradvs1.mgateway.com/download/ewd-federator.pdf](http://gradvs1.mgateway.com/download/ewd-federator.pdf)
 
 
 ## License
 
- Copyright (c) 2014 M/Gateway Developments Ltd,                           
+ Copyright (c) 2014-15 M/Gateway Developments Ltd,                           
  Reigate, Surrey UK.                                                      
  All rights reserved.                                                     
                                                                            
